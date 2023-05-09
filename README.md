@@ -29,4 +29,13 @@ ___
 
 ---
 
+<p align="center">
+  <a href="https://open.spotify.com/user/22vdbnxwnvbna6wvrmtsjc6cq">
+    <img align="center" src="https://read-me-spotify-integration.vercel.app/api/spotify" />
+  </a>
+</p>
+
+---
+
 Github stats cards created by [anuraghraza](https://github.com/anuraghazra) as part of a repo found [here](https://github.com/anuraghazra/github-readme-stats).
+Spotify card created by [novatorem](https://github.com/novatorem).
