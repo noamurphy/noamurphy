@@ -29,6 +29,8 @@ ___
 
 ---
 
+#### Currently grooving to:
+
 <p align="center">
   <a href="https://open.spotify.com/user/22vdbnxwnvbna6wvrmtsjc6cq">
     <img align="center" src="https://read-me-spotify-integration.vercel.app/api/spotify" />
