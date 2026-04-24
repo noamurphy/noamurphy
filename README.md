@@ -4,7 +4,7 @@ A data specialist with a Diploma in Data Science and a BSc in Biology. Currently
 
 ### What makes him unique?
 
-Diverse industry experience that branches into utilities, manufacturing, environmental management, and sport and fitness coaching. Hobbies include everything under the sun, most recently motorcycling, music, and weightlifting.
+Diverse industry experience that branches into utilities, manufacturing, environmental management, and sport and fitness coaching. Hobbies are equally diverse, most recently motorcycling, disc golf, and music.
 ___
 
 <!-- Stats and lang cards -->
