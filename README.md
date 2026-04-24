@@ -1,6 +1,6 @@
 ## Noah Murphy
 
-A data specialist with a Diploma in Data Science and a BSc in Biology. Currently studying Sustainable Design Engineering at the University of Prince Edward Island, specializing in Mechatorinics.
+A data specialist with a Diploma in Data Science and a BSc in Biology. Currently studying Sustainable Design Engineering at the University of Prince Edward Island, specializing in Mechatronics.
 
 ### What makes him unique?
 
